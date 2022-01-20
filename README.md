@@ -1,14 +1,10 @@
 ### Hi there, i am Alexis! 👋
 
-- 🔭 I’m currently working on my bachelor thesis degree that is about a control system for a robot manipulator using Reinforcement learning that is a machine learning technique.
-- 🌱 I’m currently learning about Robot Learning, blockchain development and music production.
+- 🔭 I’m currently working on my bachelor thesis degree that is about a control system for a robot manipulator using Reinforcement learning that is a machine learning technique and assistant Professor of the digital systems and microcontrollers lab in my university.
 
-I am passionate about robotics, AI and music so in my free time, i work on personal experiments and prototypes using Python, c/c++,  hardware, Javascript and i want to introduce dart for the visual part and see what happens.
+- 🌱 I’m currently learning about Robot Learning, frontend development and music production.
 
 Also I am creating my personal website where i will blogging and adding cool projects so, go to <a href="https://alealeblog.vercel.app/"> check it out</a> and tell me about it.
-
-
-
 
 
 
