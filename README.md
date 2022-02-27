@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about Reinforcement learning, deep learning and robotics simulation.
 
-Also I am creating my personal website where i will blogging and adding cool projects so, go to <a href="https://alealeblog.vercel.app/"> check it out</a> and tell me about it.
+Also I am creating my personal website where i will blogging and adding cool projects so, go to <a href="https://alexfm101.github.io/"> check it out</a> and tell me about it.
 
 
 
