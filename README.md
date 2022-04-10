@@ -1,8 +1,8 @@
 ### Hi there, i am Alexis! 👋
 
-- 🔭 I’m currently working on my bachelor thesis degree that is about a control system for a robot manipulator using Reinforcement learning that is a machine learning technique and assistant Professor of the digital systems and microcontrollers lab in my university.
+- 🔭 I’m currently working on my bachelor thesis degree about Reinforcement Learning applied to Robotics Manipulation.
 
-- 🌱 I’m currently learning about Reinforcement learning, deep learning and robotics simulation.
+- 🌱 I’m currently learning about Reinforcement Learning, deep learning, Pytorch, robotics simulation and Control.
 
 Also I am creating my personal website where i will blogging and adding cool projects so, go to <a href="https://alexfm101.github.io/"> check it out</a> and tell me about it.
 
