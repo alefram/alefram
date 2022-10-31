@@ -1,10 +1,10 @@
 ### Hi there, i am Alexis! 👋
 
-- 🔭 I’m currently working on my bachelor thesis degree about Reinforcement Learning applied to Robotics Manipulation.
+- 🔭 I’m currently working "TEG", which is a set of reinforcement learning environments and tools for develop smart controllers for robot manipulators, it started as my bachelor thesis but now, I want to convert it in a open source project for the community. 
 
-- 🌱 I’m currently learning about Reinforcement Learning, deep learning, robotics simulation and Control.
+- 🌱 I’m currently learning about Reinforcement Learning, deep learning applied to Robotics, Electronics and music.
 
-Also I am creating my personal website where i will blogging and adding cool projects so, go to <a href="https://alexfm101.github.io/"> check it out</a> and tell me about it.
+Also I am creating my personal website where I will show my learning notes and cool projects that I do, <a href="https://alexfm101.github.io/"> check it out</a> and tell me about it. 
 
 
 
