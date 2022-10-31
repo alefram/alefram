@@ -1,6 +1,6 @@
 ### Hi there, i am Alexis! 👋
 
-- 🔭 I’m currently working "TEG", which is a set of reinforcement learning environments and tools for develop smart controllers for robot manipulators, it started as my bachelor thesis but now, I want to convert it in a open source project for the community. 
+- 🔭 I’m currently working on "TEG", which is a set of reinforcement learning environments and tools for develop smart controllers for robot manipulators, it started as my bachelor thesis but now, I want to convert it in a open source project for the community. 
 
 - 🌱 I’m currently learning about Reinforcement Learning, deep learning applied to Robotics, Electronics and music.
 
