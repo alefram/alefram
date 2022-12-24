@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working as a software developer in PHP/Laravel applications and AI.
+- 🔭 I’m currently working as a software developer in PHP/Laravel applications, AI and Assistant profesor of Digital Systems Lab and Microprocesors Lab at Central University of Venezuela.
 
 - 🌱 I’m currently learning about Reinforcement Learning, Deep learning applied to Robotics, Web development and electronics. In my free time I learn about music production.
 
