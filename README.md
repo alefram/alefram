@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a software developer in PHP/Laravel applications, AI and Assistant profesor of Digital Systems Lab and Microprocesors Lab at Central University of Venezuela.
 
-- 🌱 I’m currently learning about Reinforcement Learning, Deep learning applied to Robotics, Web development and electronics. In my free time I learn about music production.
+- 🌱 I’m currently learning about Reinforcement Learning, Deep learning applied to Robotics and chip design. In my free time I learn about music production.
 
 <!--
 Here are some ideas to get you started:
