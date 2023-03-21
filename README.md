@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working as a software developer in PHP/Laravel applications and Assistant profesor of Digital Systems Lab and Microprocesors Lab at Central University of Venezuela.
+- 🔭 I’m currently working as web application developer (check [this](https://moonguard.dev/)). Previously, I was an assistant professor in the Digital Systems and Microprocessors Lab at the Central University of Venezuela
 
-- 🌱 I’m currently learning about Reinforcement learning, Deep learning, Robotics and its applications. In my free time I learn about music production and composition.
+- 🌱 I’m currently learning about Reinforcement learning, Deep learning, Robotics and its applications.
 
 <!--
 Here are some ideas to get you started:
