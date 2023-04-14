@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 - 🔭 I’m currently working as web application developer (check [this](https://moonguard.dev/)). Previously, I was an assistant professor in the Digital Systems and Microprocessors Lab at the Central University of Venezuela
 
