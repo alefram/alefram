@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as web application developer (check [this](https://moonguard.dev/)). Previously, I was an assistant professor in the Digital Systems and Microprocessors Lab at the Central University of Venezuela
 
-- 🌱 I’m currently learning about Reinforcement learning, Deep learning, Robotics and its applications.
+- 🌱 I’m currently learning about applied Reinforcement learning, Deep learning, Robotics, WebML.
 
 <!--
 Here are some ideas to get you started:
