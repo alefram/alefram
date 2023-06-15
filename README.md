@@ -1,8 +1,13 @@
-## Hi there! 👋
+## Hey, I'm Alex! 👋
 
-- 🔭 I’m currently working as web application developer (check [this](https://moonguard.dev/)). Previously, I was an assistant professor in the Digital Systems and Microprocessors Lab at the Central University of Venezuela
+- 🔭 I’m currently working as software developer at [Taecontrol](https://taecontrol.com/). Previously, I was an assistant professor in the Digital Systems and Microprocessors Lab at the Central University of Venezuela
+- 🌱 I’m currently learning about applied Reinforcement learning and deep learning to control systems, electronics and web development.
+- 📖 I'm blogging about everything I'm learning in my [blog](https://alefram.github.io/).
 
-- 🌱 I’m currently learning about applied Reinforcement learning, Deep learning, Control systems and web development.
+Let's [talk](mailto:cuatroalejandro@gmail.com)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/_Alefram_?label=Follow&style=social)](https://twitter.com/_Alefram_).
+
 
 <!--
 Here are some ideas to get you started:
