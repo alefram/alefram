@@ -1,7 +1,7 @@
 ## Hey, I'm Alex! 👋
 
 - 🔭 I’m currently working as software developer at [Taecontrol](https://taecontrol.com/). Previously, I was an assistant professor in the Digital Systems and Microprocessors Lab at the Central University of Venezuela
-- 🌱 I’m currently learning about applied Reinforcement learning, deep learning and Robotics simulation.
+- 🌱 I’m currently learning about applied Reinforcement learning, deep learning and Robotics control.
 - 📖 I'm blogging about everything I'm learning in my [blog](https://alefram.github.io/).
 
 Let's [talk](mailto:cuatroalejandro@gmail.com)
