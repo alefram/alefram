@@ -1,13 +1,10 @@
 ## Hey, I'm Alex! 👋
 
-- 🔭 I’m currently working as software developer at [Taecontrol](https://taecontrol.com/). Previously, I was an assistant professor in the Digital Systems and Microprocessors Lab at the Central University of Venezuela
-- 🌱 I’m currently learning about applied Reinforcement learning, deep learning and Robotics control.
-- 📖 I'm blogging about everything I'm learning in my [blog](https://alefram.github.io/).
+I like robots and autonomous systems, so I spend my free time learning about them and contributing to open source.
 
-Let's [talk](mailto:cuatroalejandro@gmail.com)
+📖 I'm blogging about everything I'm learning in my [blog](https://alefram.github.io/).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_Alefram_?label=Follow&style=social)](https://twitter.com/_Alefram_).
-
+Let's talk [email](mailto:cuatroalejandro@gmail.com) [twitter](https://twitter.com/_Alefram_)
 
 <!--
 Here are some ideas to get you started:
