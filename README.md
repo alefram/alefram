@@ -2,7 +2,7 @@
 
 I like robots and autonomous systems, so I spend my free time learning about them and contributing to open source.
 
-📖 I'm blogging about everything I'm learning in my [blog](https://alefram.github.io/).
+📖 I'm sharing everything I'm learning in my [blog](https://alefram.github.io/).
 
 Let's talk [email](mailto:cuatroalejandro@gmail.com) [twitter](https://twitter.com/_Alefram_)
 
