@@ -1,6 +1,6 @@
 ## Hey, I'm Alex! 👋
 
-I like robots and autonomous systems, so I spend my free time learning about them and contributing to open source.
+I like Robots and AI agents, so I spend my free time learning about them and contributing to open source projects.
 
 📖 I'm sharing everything I'm learning in my [blog](https://alefram.github.io/).
 
