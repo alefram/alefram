@@ -4,7 +4,7 @@ I like Robots and Autonomous systems, so I spend my free time learning about the
 
 📖 I'm sharing everything I'm learning in my [blog](https://alefram.github.io/).
 
-Let's talk [email](mailto:fraumalex@gmail.com) [twitter](https://twitter.com/_Alefram_) [linkedIn](https://www.linkedin.com/in/alefram/)
+Let's talk [twitter](https://twitter.com/_Alefram_) [linkedIn](https://www.linkedin.com/in/alefram/)
 
 <!--
 Here are some ideas to get you started:
